@@ -1,0 +1,14 @@
+com\mycompany\bankapplicationweb\domain\Accounts.class
+com\mycompany\bankapplicationweb\command\LoginCommand.class
+com\mycompany\bankapplicationweb\dao\UserDAO.class
+com\mycompany\bankapplicationweb\controller\TestController.class
+com\mycompany\bankapplicationweb\configuration\SpringRootConfig.class
+com\mycompany\bankapplicationweb\configuration\SpringWebConfig.class
+com\mycompany\bankapplicationweb\domain\Users.class
+com\mycompany\bankapplicationweb\configuration\DispatcherServletInitializer.class
+com\mycompany\bankapplicationweb\controller\DbConnection.class
+com\mycompany\bankapplicationweb\controller\UserController.class
+com\mycompany\bankapplicationweb\dao\AccountDAOImplementation.class
+com\mycompany\bankapplicationweb\dao\AccountDAO.class
+com\mycompany\bankapplicationweb\dao\UserDAOImplementation.class
+com\mycompany\bankapplicationweb\dao\DatabaseVariable.class
